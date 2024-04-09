@@ -1,4 +1,10 @@
-# create-svelte
+# Famfolio Portfolio
+
+## Overview
+
+Welcome to the Famfolio Portfolio! Famfolio is a project designed to allow users to upload various forms and media and store them. 
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
