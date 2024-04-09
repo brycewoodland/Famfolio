@@ -55,7 +55,7 @@ I developed the CollectionList component which allowed users to categorize their
 
 ## Contact
 
-If you have any questions or concerns:
+If you have any questions or concerns, feel free to reach out:
 
 Email: woo17047@byui.edu
 
