@@ -47,7 +47,11 @@ You can preview the production build with `npm run preview`.
 
 ## Team Collaboration
 
+Our team used Trello to manage tasks and collaborate on the "Famfolio" project. I've given the link to the video showcasing what I've accomplished this semester in the comment of my submission.
+
 ## My Contribution
+
+I developed the CollectionList component which allowed users to categorize their media how they wanted. This was done by implementing a popup for the user to give a title to their collection. I also designed the sidebar for the colletion list. 
 
 ## Contact
 
