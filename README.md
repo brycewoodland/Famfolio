@@ -2,13 +2,15 @@
 
 ## Overview
 
-Welcome to the Famfolio Portfolio! Famfolio is a project designed to allow users to upload various forms and media and store them. 
+Welcome to the Famfolio Portfolio! This repository contains the project "Famfolio" that my team and I worked on the last 4 weeks of the semester. Famfolio is a project designed to allow users to upload various forms and media and store them. 
 
-## create-svelte
+## Prerequisites
+
+### create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
-## Creating a project
+### Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
 
@@ -20,7 +22,7 @@ npm create svelte@latest
 npm create svelte@latest my-app
 ```
 
-## Developing
+### Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
@@ -31,7 +33,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+### Building
 
 To create a production version of your app:
 
